@@ -1,0 +1,23 @@
+{
+  "name": "dome-ele",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vant": "^3.0.15",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.6",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.1",
+    "@vue/compiler-sfc": "^3.0.5",
+    "sass": "^1.32.11",
+    "vite": "^2.1.5",
+    "vite-plugin-imp": "^2.0.7"
+  }
+}
